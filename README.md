@@ -1,8 +1,6 @@
 # Corso PNRR - "Python e Bioinformatica"
 
-## Laboratorio 1
-
-Slides: [link](https://hackmd.io/@MC6lQ6dmTd2HWy7n-3Ig5A/Sy7zZpMkR) (formato PDF: [link]())
+## Laboratorio 1 - [Slides](https://hackmd.io/@ldenti/Sy7zZpMkR)
 
 ### Contenuto
 * Introduzione
