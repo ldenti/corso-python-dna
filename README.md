@@ -1,5 +1,7 @@
 # Corso PNRR - "Python e Bioinformatica"
 
+Per ogni domanda/chiarimento, scrivete pure una mail a [luca.denti@unimib.it](mailto:luca.denti@unimib.it)
+
 ## Laboratorio 1 - [Slides](https://hackmd.io/@ldenti/Sy7zZpMkR)
 
 ### Contenuto
