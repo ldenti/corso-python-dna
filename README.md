@@ -19,6 +19,8 @@
 		* Ripetizione
 	* Scrivere e leggere da file
 
+### [Soluzioni](lab1/)
+
 ## Laboratorio 2 - [Slides](https://hackmd.io/@ldenti/rychJXQkR)
 
 ### Contenuto
@@ -49,3 +51,5 @@ CODON = {'ATA':'I', 'ATC':'I', 'ATT':'I', 'ATG':'M',
     'TAC':'Y', 'TAT':'Y', 'TAA':'$', 'TAG':'$',
     'TGC':'C', 'TGT':'C', 'TGA':'$', 'TGG':'W'}
 ```
+
+### Soluzioni
