@@ -54,4 +54,9 @@ CODON = {'ATA':'I', 'ATC':'I', 'ATT':'I', 'ATG':'M',
     'TGC':'C', 'TGT':'C', 'TGA':'$', 'TGG':'W'}
 ```
 
-### Soluzioni
+### [Soluzioni](lab2/soluzioni.py)
+
+## Laboratorio 3 - [Slides](https://hackmd.io/@ldenti/ryiFk1OlC)
+
+### Contenuto
+* esercizi di ripasso per python
