@@ -54,9 +54,17 @@ CODON = {'ATA':'I', 'ATC':'I', 'ATT':'I', 'ATG':'M',
     'TGC':'C', 'TGT':'C', 'TGA':'$', 'TGG':'W'}
 ```
 
-### [Soluzioni](lab2/soluzioni.py)
+### [Soluzioni](lab2/)
 
 ## Laboratorio 3 - [Slides](https://hackmd.io/@ldenti/ryiFk1OlC)
 
 ### Contenuto
-* esercizi di ripasso per python
+* Esercizi di ripasso per python
+
+### [Soluzioni](lab3/)
+
+## Laboratorio 4 - [Slides](https://hackmd.io/@ldenti/HyBIWpigA)
+
+### Contenuto
+* Classi in python
+* Sequenziamento e formato FASTQ
