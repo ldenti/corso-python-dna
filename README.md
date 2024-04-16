@@ -4,7 +4,6 @@ Per ogni domanda/chiarimento, scrivete pure una mail a [luca.denti@unimib.it](ma
 
 ## Laboratorio 1 - [Slides](https://hackmd.io/@ldenti/Sy7zZpMkR)
 
-### Contenuto
 * Introduzione
 	* Algoritmo
 	* Pseudocodice
@@ -21,18 +20,17 @@ Per ogni domanda/chiarimento, scrivete pure una mail a [luca.denti@unimib.it](ma
 		* Ripetizione
 	* Scrivere e leggere da file
 
-### [Soluzioni](lab1/)
+##### [Soluzioni](lab1/)
 
 ## Laboratorio 2 - [Slides](https://hackmd.io/@ldenti/rychJXQkR)
 
-### Contenuto
 * DNA: nucleotidi e strand
 * Reverse&Complement
 * Formato FASTA
 * Funzioni in python
 * Sintesi delle proteine
 
-### Materiale aggiuntivo per gli esercizi
+##### Materiale aggiuntivo per gli esercizi
 * File di input: [sequenze.fa](lab2/sequenze.fa) (file di test più piccolo: [sequenze.test.fa](lab2/sequenze.test.fa)).
 * Dizionario del codice genetico (esercizio 7):
 ```python
@@ -54,17 +52,17 @@ CODON = {'ATA':'I', 'ATC':'I', 'ATT':'I', 'ATG':'M',
     'TGC':'C', 'TGT':'C', 'TGA':'$', 'TGG':'W'}
 ```
 
-### [Soluzioni](lab2/)
+##### [Soluzioni](lab2/)
 
 ## Laboratorio 3 - [Slides](https://hackmd.io/@ldenti/ryiFk1OlC)
 
-### Contenuto
 * Esercizi di ripasso per python
 
-### [Soluzioni](lab3/)
+##### [Soluzioni](lab3/)
 
 ## Laboratorio 4 - [Slides](https://hackmd.io/@ldenti/HyBIWpigA)
 
-### Contenuto
 * Classi in python
 * Sequenziamento e formato FASTQ
+
+##### Soluzioni
