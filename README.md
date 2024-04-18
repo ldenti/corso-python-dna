@@ -65,4 +65,4 @@ CODON = {'ATA':'I', 'ATC':'I', 'ATT':'I', 'ATG':'M',
 * Classi in python
 * Sequenziamento e formato FASTQ
 
-##### Soluzioni
+#####  [Soluzioni](lab4/)
