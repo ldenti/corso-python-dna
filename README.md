@@ -66,3 +66,8 @@ CODON = {'ATA':'I', 'ATC':'I', 'ATT':'I', 'ATG':'M',
 * Sequenziamento e formato FASTQ
 
 #####  [Soluzioni](lab4/)
+
+## Slide aggiuntive
+* [laboratorio 3, versione avanzata](https://hackmd.io/@ldenti/H1UCzvF10)
+* [laboratorio 4, versione avanzata](https://hackmd.io/@ldenti/SytRuYFkA)
+
